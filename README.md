@@ -1,12 +1,11 @@
-
-![logo](https://github.com/user-attachments/assets/4bf7d074-e3ea-4766-8cb7-96a397f85f99)'
+![logo_](https://github.com/user-attachments/assets/cd06965c-bc3d-4dd7-bf52-e5cdb3e003e2)
 
   # Residuals_Matter
-### This notebook provides a practical walkthrough of the essential components of Exploratory Data Analysis and Predictive Modelling. The techniques showcased are fundamental for transforming raw data into actionable insights
+This notebook provides a practical walkthrough of the essential components of Exploratory Data Analysis and Predictive Modelling. The techniques showcased are fundamental for transforming raw data into actionable insights
 ---
 ## 🎯 Objective
 
-### The goal of this notebook is to demonstrate how to apply Python tools to analyze, transform, and model data from scratch. It covers everything from initial cleaning to benchmarking predictive models including linear regression, penalized regressions, PCA, PLS, and random forest.
+The goal of this notebook is to demonstrate how to apply Python tools to analyze, transform, and model data from scratch. It covers everything from initial cleaning to benchmarking predictive models including linear regression, penalized regressions, PCA, PLS, and random forest.
 ---
 ## 🧰 Techniques and Libraries Used
 
@@ -56,9 +55,7 @@
     - OOB score
 
 11. **Tree Visualization with `graphviz`**
-<br>
-## 🧪 Requirements<br>
-
+### 🧪 Requirements
 
 1. Make sure Python 3.8+ is installed.
 2. Install dependencies:
