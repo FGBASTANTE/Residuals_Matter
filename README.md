@@ -25,7 +25,7 @@
 - Linear/Lasso/Ridge regressions
 - RFECV, PCA, PLS
 - Random Forest
-- Cross-validation
+- Cross-Validation
 ---
 ## 📑 Notebook Structure
 
@@ -82,9 +82,6 @@
 4. [**Statsmodels Documentation**](https://www.statsmodels.org/stable/index.html)  
    Useful for linear models, OLS diagnostics, VIF analysis, and statistical hypothesis testing.
 
-5. [**A Visual Guide to Feature Selection**](https://towardsdatascience.com/a-feature-selection-toolbox-in-python-b64dd23710f0)  
-   Explains and compares multiple feature selection methods with examples in Python.
-
-6. [**Hands-On Exploratory Data Analysis with Python**](https://realpython.com/python-data-cleaning-numpy-pandas/)  
+5. [**Hands-On Exploratory Data Analysis with Python**](https://realpython.com/python-data-cleaning-numpy-pandas/)  
    Practical guide to cleaning, analyzing, and visualizing datasets using NumPy and Pandas.
 
