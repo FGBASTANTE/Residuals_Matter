@@ -2,7 +2,12 @@
 
 # Residuals_Matter
 
-- This notebook provides a practical walkthrough of the essential components of Exploratory Data Analysis and Predictive Modelling. The techniques showcased are fundamental for transforming raw data into actionable insights.
+This notebook provides a practical walkthrough of the essential components of Exploratory Data Analysis and Predictive Modelling. The techniques showcased are fundamental for transforming raw data into actionable insights.
+
+<i>Fernando García Bastante<br>
+Universidade de Vigo<br>
+For Educational Purposes</i>
+
 ---
 ## 🎯 Objective
 
@@ -10,7 +15,7 @@
 ---
 ## 🧪 Requirements
 
-1. Make sure Python 3.12 is installed. V.g.:
+1. Make sure Python 3.12 is installed. V.g. with conda:
    ```bash
    conda create -n myeda_env python=3.12
    conda activate myeda_env
@@ -37,8 +42,8 @@
 
 The database employed to illustrate the tools and techniques presented in this Jupyter Notebook is derived from the distinguished article: <i>Chemical Descriptors for a Large-Scale Study on Drop-Weight Impact Sensitivity of High Explosives</i>. This study investigates the relationship between the results of the drop-weight impact test—used to evaluate the handling sensitivity of high explosives—and a compendium of molecular and chemical descriptors associated with the explosives under examination.
 
-<b>Frank W. Marrs, Jack V. Davis, Alexandra C. Burch, Geoffrey W. Brown, Nicholas Lease, Patricia L. Huestis, Marc J. Cawkwell, and Virginia W. Manner (2023)</b>
-<i>Chemical Descriptors for a Large-Scale Study on Drop-Weight Impact Sensitivity of High Explosives</i>. <i>Journal of Chemical Information and Modeling</i><br>
+<b>Frank W. Marrs, Jack V. Davis, Alexandra C. Burch, Geoffrey W. Brown, Nicholas Lease, Patricia L. Huestis, Marc J. Cawkwell, and Virginia W. Manner (2023).</b>
+<i>Chemical Descriptors for a Large-Scale Study on Drop-Weight Impact Sensitivity of High Explosives</i>. <i>Journal of Chemical Information and Modeling.</i><br>
 https://pubs.acs.org/doi/10.1021/acs.jcim.2c01154<br>
 
 <i>**DISCLAIMER:** This code is provided for educational and demonstrative purposes only. Its sole objective is to illustrate Python techniques for data visualisation and analysis. The datasets used in the examples serve purely as illustrative material; no comprehensive or contextual analysis of these specific datasets has been undertaken or is implied. The primary focus remains on the implementation of technical methodologies, rather than the in-depth interpretation of the data itself. For the purposes of this notebook, minor modifications have been introduced into the database in order to facilitate the illustration of certain techniques presented herein.</i>
