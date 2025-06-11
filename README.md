@@ -38,7 +38,7 @@ For Educational Purposes</i>
 - Cross-Validation
 - SHAP
 ---
-## DataBase
+## ![image](https://github.com/user-attachments/assets/d5dcb612-da3e-4c32-8a0e-a8eaf9ebfa15) DataBase
 
 The database employed to illustrate the tools and techniques presented in this Jupyter Notebook is derived from the distinguished article: <i>Chemical Descriptors for a Large-Scale Study on Drop-Weight Impact Sensitivity of High Explosives</i>. This study investigates the relationship between the results of the drop-weight impact test—used to evaluate the handling sensitivity of high explosives—and a compendium of molecular and chemical descriptors associated with the explosives under examination.
 
