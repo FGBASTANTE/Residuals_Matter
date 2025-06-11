@@ -161,7 +161,7 @@ This notebook exemplifies a comprehensive data science pipeline implemented usin
 ### **9. Model Evaluation and Optimization**
 
 - **Performance Metrics:** Assesses model accuracy via MSE, RMSE, and R².
-- **Interpretation and Insight:** Relates performance to domain-specific expectations and explores model behavior.
 - **Hyperparameter Tuning:** Where applicable, employs GridSearch or RandomizedSearch for parameter optimization.
+- **Interpretation and Insight:** Relates performance to domain-specific expectations and explores model behavior.
 
 ---
