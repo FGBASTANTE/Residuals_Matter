@@ -23,7 +23,7 @@
    ```bash
    jupyter lab
    ```
-   ...and load the fie: eda_dm.ipynb
+   ...and load the file: eda_dm.ipynb
 ---
 ## 🧰 Techniques
 
@@ -32,6 +32,18 @@
 - Random Forest
 - Cross-Validation
 - SHAP
+---
+## DataBase
+
+The database employed to illustrate the tools and techniques presented in this Jupyter Notebook is derived from the distinguished article: <i>Chemical Descriptors for a Large-Scale Study on Drop-Weight Impact Sensitivity of High Explosives</i>. This study investigates the relationship between the results of the drop-weight impact test—used to evaluate the handling sensitivity of high explosives—and a compendium of molecular and chemical descriptors associated with the explosives under examination.
+
+<i>Chemical Descriptors for a Large-Scale Study on Drop-Weight Impact Sensitivity of High Explosives</i>. <i>Journal of Chemical Information and Modeling</i><br>
+https://pubs.acs.org/doi/10.1021/acs.jcim.2c01154<br>
+<b>Frank W. Marrs, Jack V. Davis, Alexandra C. Burch, Geoffrey W. Brown, Nicholas Lease, Patricia L. Huestis, Marc J. Cawkwell, and Virginia W. Manner</b>
+<br>
+
+**DISCLAIMER:** This code is provided for educational and demonstrative purposes only. Its sole objective is to illustrate Python techniques for data visualisation and analysis. The datasets used in the examples serve purely as illustrative material; no comprehensive or contextual analysis of these specific datasets has been undertaken or is implied. The primary focus remains on the implementation of technical methodologies, rather than the in-depth interpretation of the data itself.
+For the purposes of this notebook, minor modifications have been introduced into the database in order to facilitate the illustration of certain techniques presented herein.
 ---
 ## 📑 Notebook Structure
 
