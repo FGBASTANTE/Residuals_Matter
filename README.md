@@ -56,8 +56,8 @@ https://pubs.acs.org/doi/10.1021/acs.jcim.2c01154<br>
 4. **Exploratory Data Analysis**
 5. **Linear Regression with `statsmodels`**
 6. **Stepwise Regression via AIC/BIC**
-7. **Regression with `scikit-learn` and Cross-Validation:**
-8. **Model Comparison:**
+7. **Regression with `scikit-learn` and Cross-Validation**
+8. **Model Comparison**
 9. **Principal Component Regression (PCR)**
 10. **Partial Least Squares Regression (PLS)**
 11. **Random Forest Regression**
