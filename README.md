@@ -2,7 +2,7 @@
 
 # Residuals_Matter
 
-- This notebook provides a practical walkthrough of the essential components of Exploratory Data Analysis and Predictive Modelling. The techniques showcased are fundamental for transforming raw data into actionable insights
+- This notebook provides a practical walkthrough of the essential components of Exploratory Data Analysis and Predictive Modelling. The techniques showcased are fundamental for transforming raw data into actionable insights.
 ---
 ## 🎯 Objective
 
@@ -10,15 +10,20 @@
 ---
 ## 🧪 Requirements
 
-1. Make sure Python 3.8+ is installed.
-2. Install dependencies:
+1. Make sure Python 3.12 is installed. V.g.:
    ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn statsmodels openpyxl pingouin graphviz python-graphviz dot
+   conda create -n myeda_env python=3.12
+   conda activate myeda_env
    ```
-3. Launch Jupyter Notebook:
+3. Install dependencies:
    ```bash
-   jupyter-lab eda_dm.ipynb
+   conda install conda-forge::ipython scikit-learn pingouin pandas matplotlib cython openpyxl seaborn jupyterlab tabulate statsmodels graphviz python-graphviz pydot shap ipywidgets
    ```
+4. Launch Jupyter lab
+   ```bash
+   jupyter lab
+   ```
+   ...and load the fie: eda_dm.ipynb
 ---
 ## 🧰 Techniques
 
@@ -26,20 +31,23 @@
 - RFECV, PCA, PLS
 - Random Forest
 - Cross-Validation
+- SHAP
 ---
 ## 📑 Notebook Structure
 
-1. **Data Loading and Cleaning:**
-3. **Variable Transformation:**
-4. **Exploratory Data Analysis:**
-5. **Linear Regression with `statsmodels`:**
+1. **Data Loading and Cleaning**
+3. **Variable Transformation**
+4. **Exploratory Data Analysis**
+5. **Linear Regression with `statsmodels`**
 6. **Stepwise Regression via AIC/BIC**
 7. **Regression with `scikit-learn` and Cross-Validation:**
 8. **Model Comparison:**
 9. **Principal Component Regression (PCR)**
 10. **Partial Least Squares Regression (PLS)**
-11. **Random Forest Regression:**
-12. **Tree Visualization with `graphviz`**
+11. **Random Forest Regression**
+12. **Shap (SHapley Additive exPlanations)**
+13. **Tree Visualization with `graphviz`**
+---
 
 ## 📚 Recommended Bibliography and Resources (in English)
 
@@ -57,6 +65,10 @@
 
 5. [**Hands-On Exploratory Data Analysis with Python**](https://realpython.com/python-data-cleaning-numpy-pandas/)  
    Practical guide to cleaning, analyzing, and visualizing datasets using NumPy and Pandas.
+   
+7. [**SHAP documentation**](https://shap.readthedocs.io/en/latest/)
+   Approach to explain the output of any machine learning model.
+
 ---
 ## 📘 Summary of Workflow
 
